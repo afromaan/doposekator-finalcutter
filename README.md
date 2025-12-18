@@ -49,7 +49,9 @@ Now we´re gonna lock in for designing working frame.
 
 
 ## 💻 <strong> Update 12/18/2025 </strong>
-You can now check our "almost" finished 3D model in files above.
+You can now check renders of our "almost" finished 3D model in files above.
+
+![Design](3d-model/images/design.png)
 
 ### What next?
 Gonna finish the model and start with welding.
