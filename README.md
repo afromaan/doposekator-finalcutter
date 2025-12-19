@@ -27,7 +27,7 @@ And the **second goal** is to customizate it to its best configuration possible 
 
 ## Hardware
 - 👨‍🏭 Frame: DIY welded steel frame 
-- ⚙️ Engine: from some old Honda mower
+- ⚙️ Engine: from some old Husqvarna mower
 - ⚙️ Drive motors: 4x MY1016Z 12V 250W 
 - 👨‍🏭 Gas Tank: DIY welded steel gas tank (capacity 5-10l)
 - 👨‍🏭 Wheels: DIY welded steel wheels (modified for mud with small spikes for better grid)
